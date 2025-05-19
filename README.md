@@ -1,4 +1,4 @@
-# credit-risk-prediction
+# credit-default-prediction
 
 In this Project, we have built two strategies in one is Conservative, and the other is Aggressive.
 We have used 0.3 threshold as the conservative strategy and 0.5 threshold as the aggressive strategy.
